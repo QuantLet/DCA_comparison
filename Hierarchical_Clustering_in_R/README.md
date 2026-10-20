@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_Hierachical_Clustering
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: Generating a hierarchical clustering as well as a dendrogram and a plot indicating cluster sizes
 
