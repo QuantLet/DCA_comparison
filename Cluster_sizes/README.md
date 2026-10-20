@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_comparison_cluster_sizes
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: Plotting cluster sizes for k-means
 
