@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_finding_highest_centroid_values
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: Evaluation of cluster coherence for a manual k-means algorithm by returning the 5 highest centroid values per cluster
 
