@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_evaluation_Silhouette-Score_and_Calinski-Harabaz-Score
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: Computing and plotting the Silhouette Score as well as the Calinski Harabaz Score for a k-means and several hierarchical clusterings (different distance measures)
 
