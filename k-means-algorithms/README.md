@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_manual_k-means
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: A manual k-means algorithm as alternative to the one provided by sklearn package
 
