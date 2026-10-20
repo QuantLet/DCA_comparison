@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: DCA_sum_of_squares_for_k-means
 
-Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering
+Published in: Bachelor Thesis "Comparing applicability of prevalent Clustering Algorithms for Document Clustering"
 
 Description: Plotting the sum of squared distances for each k of a k-means clustering
 
